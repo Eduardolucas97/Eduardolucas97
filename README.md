@@ -1,6 +1,7 @@
 👋 Olá, eu sou @Eduardolucas97
-👀 Tenho interesse na aréa de programação
-🌱 Atualmente estou aprendendo Html, css, javascript e Banco de dados
+🎓 Atualmente estou cursando Analise e Desenvolvimento de Sistemas Na Unisa
+👀 Tenho interesse na área de desenvolvimento. 
+🌱 Atualmente estou aprendendo Html, Css, Javascript e Banco de dados.
 
 
 <!---
